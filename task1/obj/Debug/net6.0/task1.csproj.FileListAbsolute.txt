@@ -1,0 +1,15 @@
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\bin\Debug\net6.0\task1.exe
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\bin\Debug\net6.0\task1.deps.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\bin\Debug\net6.0\task1.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\bin\Debug\net6.0\task1.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\refint\task1.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task1\obj\Debug\net6.0\ref\task1.dll

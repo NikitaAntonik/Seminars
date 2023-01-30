@@ -1,0 +1,15 @@
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\bin\Debug\net6.0\web.exe
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\bin\Debug\net6.0\web.deps.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\bin\Debug\net6.0\web.runtimeconfig.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\bin\Debug\net6.0\web.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\bin\Debug\net6.0\web.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.csproj.AssemblyReference.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.AssemblyInfoInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.AssemblyInfo.cs
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.csproj.CoreCompileInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\refint\web.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\web.genruntimeconfig.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\web\obj\Debug\net6.0\ref\web.dll

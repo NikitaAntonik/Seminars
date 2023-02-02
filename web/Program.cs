@@ -1,13 +1,15 @@
-﻿//while (a > 5)
-//{
-//    Console.WriteLine("Hello, World!");
-//    a = a -1;
-//}
+﻿int num = new Random().Next(10, 100);
+int num1 = num / 10;
+int num2 = num % 10;
 
-//for (int i = 0; i < 10; i++)
-//{
-//    Console.WriteLine($"{i} Hello, World!");
-//}
+Console.WriteLine(num);
 
-double a = -7.12345;
-Console.WriteLine($"{Math.Round(a)} ");
+
+if (num1 > num2)
+{
+    Console.WriteLine(num1);
+}
+else
+{
+    Console.WriteLine(num2);
+}

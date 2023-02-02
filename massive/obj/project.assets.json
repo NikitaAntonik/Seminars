@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task2\\task2.csproj",
-      "projectName": "task2",
-      "projectPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task2\\task2.csproj",
+      "projectUniqueName": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\massive\\massive.csproj",
+      "projectName": "massive",
+      "projectPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\massive\\massive.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task2\\obj\\",
+      "outputPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\massive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

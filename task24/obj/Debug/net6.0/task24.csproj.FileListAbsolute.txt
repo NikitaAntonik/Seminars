@@ -1,0 +1,15 @@
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\bin\Debug\net6.0\task24.exe
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\bin\Debug\net6.0\task24.deps.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\bin\Debug\net6.0\task24.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\bin\Debug\net6.0\task24.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\refint\task24.dll
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.pdb
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+D:\УЧЕБА ИТ\Папка с прогой 1\Seminar1\task24\obj\Debug\net6.0\ref\task24.dll

@@ -19,7 +19,7 @@ for (int i = 0; i < numbers.Length; i++)
 {
     if(numbers[i] == find)
     {
-        Ans = "Да";
+        Ans = "Да"; 
         break;
     }
 }

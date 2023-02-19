@@ -4,5 +4,7 @@
 // 3  -> 11
 // 2  -> 10
 
-Console.WriteLine("Введите первую переменную: ");
-int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число: ");
+int x = Convert.ToInt32(Console.ReadLine());
+string b = Convert.ToString(x,2);
+Console.WriteLine(b);

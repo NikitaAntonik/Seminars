@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\Seminar5\\Seminar5.csproj",
-      "projectName": "Seminar5",
-      "projectPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\Seminar5\\Seminar5.csproj",
+      "projectUniqueName": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task48\\task48.csproj",
+      "projectName": "task48",
+      "projectPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task48\\task48.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\Seminar5\\obj\\",
+      "outputPath": "D:\\УЧЕБА ИТ\\Папка с прогой 1\\Seminar1\\task48\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
